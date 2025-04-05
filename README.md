@@ -138,9 +138,5 @@ npm run dev # 启动项目
 
 
 
-联系方式微信：**xl110387**
-用浏览器扫码打开
-
-![co](https://lyqblog.oss-cn-beijing.aliyuncs.com/icon.png)
 
 
